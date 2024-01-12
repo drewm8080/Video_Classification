@@ -1,5 +1,3 @@
-# Video_Classification
-
 # Project Description
 
 In this project, the goal is to build a classifier that distinguishes videos of five different activities using transfer learning and image classification techniques. The project involves training a convolutional neural network (CNN) for image classification and then converting it into a video classifier using moving averages to address the flickering phenomenon. 
